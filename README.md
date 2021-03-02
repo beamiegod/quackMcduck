@@ -7,17 +7,8 @@
   2.)Make schools lunches cheaper-or possibly eliminate the money program-,
   3.)Make this a safer place for all countries,
   4.)make sure you and your diverse beliefs are heard.</p>
-</main><html>
-<head>
-  <link rel="stylesheet" href="/html/styles.css">
-</head>
-<body>
-
-<h1>VOTE ME</h1>
-
-</body>
-</html>
-
+</main>
+<h1>VOTE FOR ME, and do what's right!</h1>
 <h4>thank you for your time and generosity.</h4>
 
 
