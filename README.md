@@ -8,7 +8,7 @@
   3.)Make this a safer place for all countries,
   4.)make sure you and your diverse beliefs are heard.</p>
 </main>
-<img src="https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=ops2cvpehp6#attid%253Datt_177f4349c393b3d2_0.1_44706be5_d12a3b32_427c2b36_76a58145_2187cbcb%25252FIMG_5610.jpg" alt="Zach Lazarus">
+<img src="https://mail.google.com/mail/u/0/#inbox/FMfcgxwLsmclndcbdqfgvNCktMGGMKTn?projector=1&messagePartId=0.1" alt="Zach Lazarus">
 <h4>thank you for your time and generosity.</h4>
 
 
