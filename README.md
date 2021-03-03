@@ -15,18 +15,3 @@
 <p>ZachForPm.co.uk @2021 if you have any further question, please email our party on ZachLazarusOffial@gmail.com</p>
 
 <a href="https://www.youtube.com/watch?v=hr7Yww-3Y7E">This takes you to our website.</a>
-     <html>
-<head>
-<script>
-function openWin()
-{
-myWindow=window.open("","","width=200,height=100");
-myWindow.document.write("<p>This is 'myWindow'</p>");
-}
-
-</script>
-</head>
-<body onmouseover="openWin()">
-
-</body>
-</html>
