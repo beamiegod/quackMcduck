@@ -1,11 +1,4 @@
-<h1>Best autoclickers i found on chrome;</h1>
-<h2>1.)CTG plugins=</h2>
-<a href="https://chrome.google.com/webstore/detail/ctg-plugins/hjljaklopfcidbbglpbehlgmelokabcp">Click here.</a>
-<h2>2.)Auto Clicker=</h2>
-<a href="https://chrome.google.com/webstore/detail/auto-clicker/cpedeojecpbkcomgcolphimkjdnikbck?hl=en">Click here.</a>
-<p>In my opinion i would prefer CTG plugins because not only is their autoclicker, there is autoscroll and more</p>
-<!--
-i kinda need help can someone help me learn?
-email= egoinvisibila@gmail.com
-thx u
--->
+choco = 3
+cost_per_choco = 3.12
+total_cost_of_choco = choco * cost_per_choco
+print total_cost_of_choco
