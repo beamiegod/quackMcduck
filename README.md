@@ -14,4 +14,4 @@
 
 <p>ZachForPm.co.uk @2021 if you have any further question, please email our party on ZachLazarusOffial@gmail.com</p>
 
-<a href="https://www.youtube.com/watch?v=hr7Yww-3Y7E">this takes you to our website</a>
+<a href="https://www.youtube.com/watch?v=hr7Yww-3Y7E">This takes you to our website.</a>
